@@ -50,7 +50,7 @@ a {
 .top2 {
 	float: left;
 	width: 100%;
-	padding: 14px 0px;
+	padding: 6px 0px;
 }
 
 .top2 .logo {
@@ -105,7 +105,7 @@ a {
 .nav ul li a {
 	color: white;
 	text-transform: uppercase;
-	padding: 14px 58px;
+	padding: 4px 58px;
 	border-right: 1px solid #ffffff;
 	margin-left: -5px;
 }

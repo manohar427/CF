@@ -86,7 +86,7 @@ a {
 .nav {
 	width: 100%;
 	float: left;
-	background: #ff7f27;
+	background: #3366cc;
 	border-radius: 15px;
 	position: relative;
 }
@@ -108,17 +108,18 @@ a {
 	padding: 4px 58px;
 	border-right: 1px solid #ffffff;
 	margin-left: -5px;
+	font-weight: bold;
 }
 
 .nav ul li a:hover {
 	background: white;
-	color: #ff7f27;
+	color: #3366cc;
 	border-left: 0px;
 }
 
 .nav ul li .active {
 	background: white;
-	color: #ff7f27;
+	color: #3366cc;
 	border-left: 0px;
 }
 

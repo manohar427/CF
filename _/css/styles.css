@@ -1092,7 +1092,7 @@ footer ul li a {
 .apn1 .left ul .ul li { /* float: left; */
 	width: 100%;
 	list-style: none;
-	line-height: 15px;
+	line-height: 2px;
 	color: rgba(67, 67, 67, 0.73);
 	background: none; /* color: white; */
 	padding: 10px;

@@ -336,14 +336,14 @@ a {
 	width: 100%;
 	float: left;
 	background: #22b14c;
-	padding-bottom: 25px;
+	/*padding-bottom: 25px;*/
 }
 
 .ipn4 h2 {
 	float: left;
 	width: 100%;
 	text-align: center;
-	font-size: 35px;
+	font-size: 23px;
 	color: black;
 }
 
@@ -355,9 +355,9 @@ a {
 .ipn4 .hr hr {
 	float: left;
 	width: 100%;
-	border: 3px solid rgba(255, 255, 255, 0.5);
-	margin-top: -24px;
-	margin-bottom: 24px;
+	border: 2px solid rgba(255, 255, 255, 0.5);
+	margin-top: -22px;
+	margin-bottom: 0px;
 }
 
 .ipn4 .hr1 {

@@ -170,22 +170,22 @@ a {
 .ipn1 {
 	width: 100%;
 	float: left;
-	padding-bottom: 25px;
+	padding-bottom: 0px;
 }
 
 .ipn1 h2 {
 	float: left;
 	width: 100%;
 	text-align: center;
-	font-size: 35px;
+	font-size: 20px;
 }
 
 .ipn1 p {
 	float: left;
 	width: 100%;
 	text-align: center;
-	font-size: 18px;
-	line-height: 32px;
+	font-size: 15px;
+	line-height: 25px;
 	color: #434343
 }
 
@@ -193,8 +193,9 @@ a {
 	float: left;
 	background: #ff7f27;
 	color: white;
-	margin: 17px 542px;
-	padding: 10px 12px;
+	margin: 4px 542px;
+	padding: 3px 4px;
+	font-size: 13px;
 }
 
 .ipn1 a:hover {
@@ -208,14 +209,14 @@ a {
 	float: left;
 	background: url(../images/content2.jpg) no-repeat;
 	background-size: 100% 100%;
-	height: 400px;
+	height: 320px;
 }
 
 .ipn2 h2 {
 	float: left;
 	width: 100%;
 	text-align: center;
-	font-size: 35px;
+	font-size: 25px;
 	color: white;
 }
 
@@ -231,7 +232,7 @@ a {
 	float: left;
 	margin-left: 0px;
 	color: white;
-	line-height: 28px;
+	line-height: 20px;
 	width: 100%;
 	letter-spacing: 1px;
 	list-style: none;
@@ -1005,7 +1006,7 @@ footer ul li a {
 	float: left;
 	width: 100%;
 	text-align: left;
-	font-size: 25px;
+	font-size: 20px;
 	color: white;
 	padding-left: 37px;
 	margin: 0;
@@ -1062,7 +1063,7 @@ footer ul li a {
 	float: left;
 	width: 73%;
 	list-style: none;
-	line-height: 32px;
+	line-height: 24px;
 }
 
 .apn1 .right1 ul li a {
@@ -1112,7 +1113,7 @@ footer ul li a {
 	width: 73%;
 	list-style: none;
 	color: white;
-	line-height: 31px;
+	line-height: 22px;
 }
 
 .apn1 .right h2 {

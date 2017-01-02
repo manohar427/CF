@@ -144,8 +144,8 @@ a {
 	color: #ff7f27;
 	color: #ff7f27;
 	font-size: 17px;
-	margin-top: 81px;
-	margin-right: 202px;
+	margin-top: 8px;
+	margin-right: 20px;
 }
 
 .banner-text p {
@@ -223,7 +223,7 @@ a {
 .ipn2 ol {
 	float: left;
 	width: 30%;
-	margin: 10px 0px;
+	margin: 1px 0px;
 	position: relative;
 	left: 73px;
 }
@@ -433,8 +433,8 @@ a {
 	float: left;
 	width: 38%;
 	margin: 15px 0;
-	padding: 11px;
-	padding-left: 45px;
+	padding: 1px;
+	padding-left: 5px;
 	background-size: 8% 100%;
 }
 
@@ -449,7 +449,7 @@ a {
 	float: left;
 	width: 94%;
 	background: #0f92bd;
-	padding: 3%;
+	padding: 1%;
 	border-radius: 5px;
 	margin-top: 5px;
 	text-align: center
@@ -999,7 +999,7 @@ footer ul li a {
 	animation-delay: 1s;
 	overflow-y: scroll;
 	overflow-x: hidden;
-	padding-bottom: 25px;
+	padding-bottom: 2px;
 }
 
 .apn1 .right1 h2 {

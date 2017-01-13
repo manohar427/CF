@@ -1265,14 +1265,14 @@ translateY
 	float: left;
 	width: 100%;
 	background: url("../images/cbg.jpg");
-	padding-bottom: 32px;
+	padding-bottom: 2px;
 }
 
 .contact h1 {
 	float: left;
 	width: 100%;
 	text-align: center;
-	font-size: 35px;
+	font-size: 25px;
 	color: white;;
 }
 

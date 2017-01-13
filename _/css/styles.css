@@ -531,7 +531,7 @@ a {
 .icontentwrapper .ileft .text {
 	float: left;
 	width: 48%;
-	height: 35px;
+	height: 25px;
 	border: 1px solid #e1e1e1;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -565,8 +565,8 @@ a {
 
 .icontentwrapper .ileft .button {
 	float: right;
-	width: 175px;
-	height: 39px;
+	width: 105px;
+	height: 25px;
 	background: #ff7f27;
 	border: 1px solid #ff7f27;
 	border-bottom: 4px solid rgb(187, 106, 6);
@@ -579,7 +579,7 @@ a {
 .icontentwrapper .ileft .capcha {
 	float: left;
 	width: 25% !important;
-	height: 35px;
+	height: 25px;
 	margin: 10px;
 }
 
@@ -679,8 +679,8 @@ a {
 
 .icontentwrapper .contact  .button {
 	float: right;
-	width: 110px;
-	height: 39px;
+	width: 100px;
+	height: 25px;
 	background: #0975e3;
 	border: 1px solid #e1e1e1;
 	cursor: pointer;

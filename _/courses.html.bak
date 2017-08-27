@@ -1,0 +1,398 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type"  content="text/html; charset=utf-8" />
+
+<link href="https://fonts.googleapis.com/css?family=Domine" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="css/styles.css"> 
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css"> 
+
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<link rel="shortcut icon" href="images/logo.png" />
+
+<script type="text/javascript" src="http://gc.kis.scr.kaspersky-labs.com/50DCB686-3179-2A45-9D06-1ECB73AB534F/main.js" charset="UTF-8"></script><script type="text/javascript" src="http://gc.kis.scr.kaspersky-labs.com/50DCB686-3179-2A45-9D06-1ECB73AB534F/main.js" charset="UTF-8"></script><script src="src/float-panel.js"></script>
+
+<title>COURSE FOUNDER</title>
+
+<script src="js/float-panel.js"></script>
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+
+	<!-- End WOWSlider.com HEAD section -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+</head>
+
+
+<body>
+
+<div class="full-wrapper">     
+      <div class="top2">
+
+         <div class="wrapper">
+
+             <table border="0" width="100%">
+                         <tr>
+                               <td align="left" width="30%">
+
+                                     <table lang="left" border="0">
+                                         <tr>
+                                          <td align="right">
+                                             <i class="fa fa-whatsapp" style="font-size:18px;color:green;">                                            
+                                             </i>
+                                             <i class="fa fa-phone-square" style="font-size:18px;color:green;"></i>                                                                               
+                                          </td>
+                                          <td>&nbsp;<b>+91 9986781724</b></td>
+                                         </tr>
+                                         <tr>
+                                          <td align="right"><i class="fa fa-envelope" style="color:green;"></i></td>
+                                          <td><b>&nbsp;info@coursefounder.com</b></td>
+                                        </tr>
+                                      </table>                                                                                                                                      
+                              </td>                          
+                                                        
+                               <td >
+                                  <div class="logo ">
+                                        <a href="index.html">
+                                             <img src="images/logo.png" border="0"/>
+                                        </a>
+                                   </div>
+                            </td>
+                             <td width="27%">
+                                  <span style="font-size: 14.5px;font-style: bold">
+                                     Address:<br/>
+                                  85/9,6th Cross Rd,Maruti Nagar,1st Stage,<br/>
+                                  BTM Layout 1,Bangaluru,Karnataka 560029</span>
+                            </td>
+                          </tr>
+                    </table>  
+
+         </div>
+
+    </div>
+
+    
+
+     <div class="wrapper"> 
+
+    <div class="nav float-panel">
+
+   
+
+    <nav>
+
+    <ul>
+
+    <li><a href="index.html">Home       </a></li>                   
+    <li><a href="about-us.html">About US    </a></li>                      
+    <li><a href="services.html">Services    </a> </li>                     
+    <li><a href="courses.html" class="active">Courses    </a> </li>                     
+    <li><a href="careers.html">Careers    </a>  </li>                   
+    <li><a href="contact-us.html" style="border-right:none;">Contact US</a></li>
+
+    </ul>
+
+    </nav>
+
+    </div>
+
+    </div>
+
+  
+
+     <div class="banner inner">
+
+<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+
+<div id="wowslider-container1">
+
+<div class="ws_images"><ul>
+		<li><a href="http://wowslider.net"><img src="images/index.jpg" alt="jquery slider" title="index" id="wows1_0"/></a></li>
+		<li><img src="images/index2.jpg" alt="index2" title="index2" id="wows1_1"/></li>
+	</ul>
+</div>
+
+	<div class="ws_bullets"><div>
+		<a href="#" title="index"><span><img src="images/index.jpg" alt="index"/>1</span></a>
+		<a href="#" title="index2"><span><img src="images/index2.jpg" alt="index2"/>2</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery slider</a> by WOWSlider.com v8.7</div>
+
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+    </div>
+
+    
+
+ <div class="apn1">    
+ <div class="wrapper">
+ <h1>Courses</h1>
+<div style="float:left;width:100%;">
+    <hr style="float:left;width:105px; border:1.5px solid #ff7f27;margin-top:-15px;border-radius:50px;">
+    </div>
+ <div class="left">
+
+<h3>Core Java</h3> 
+<div style="float:left;width:100%;">
+    <hr style="float:left;width:60px; border:1.5px solid green;margin-top:10px;border-radius:50px;">
+</div>
+
+
+<ul>
+<li>	Java Overview</li>
+<ul class="ul">
+       <li>How java differs with C and C++</li>
+       <li>JVM architecture (Heap,Stack,..et</li>
+       <li>Advantages of java over C,C++</li>
+       <li>Jdk installation</li>
+       <li>Jdk class path &Jdk home environment variables</li>
+       <li>Jre &jdk usage</li>
+       <li>Eclipse IDE,Net  Beans</li>
+</ul>
+
+<li>	OOPS concepts of Java</li>
+<ul class="ul">
+        <li>Class</li>
+        <li>Variables</li>
+        <li>Methods</li>
+        <li>Objects</li>
+        <li>Inheritance</li>
+        <li>Overloading</li>
+        <li>Overriding</li>
+        <li>Boxing and Unboxing</li>        
+</ul>
+
+<li>Java class types</li>
+<ul class="ul">
+        <li>Interface</li>
+        <li>Abstract Class</li>
+        <li>Enums</li>
+</ul>
+
+<li>String handling</li>
+<ul class="ul">
+       <li>String</li>
+       <li>String Buffer</li>
+       <li>String Builder</li>
+</ul>
+
+<li>Serialization</li>
+
+<li>Cloning</li>
+<ul class="ul">
+       <li>Deep cloning</li>
+       <li>Shallow Cloning</li>
+</ul>
+
+<li>Exception handling</li>
+<ul class="ul">
+       <li>Compile time and Runtime exceptions</li>
+       <li>Exception</li>
+       <li>Errors</li>
+       <li>Throwable</li>
+       <li>Throws</li>
+       <li>User defined exception creation</li>
+</ul>
+
+<li>Junit test case</li>
+<ul class="ul">
+        <li>Test case</li>
+        <li>Test suite</li>
+        <li>Mockito frame work</li>
+        <li>How to check Junit coverage ?</li>
+</ul>
+<li>	Multi  Threading concepts</li>
+ <ul class="ul">    
+        <li>Thread Life cycle</li>
+        <li>Thread</li>
+        <li>Runnable Interface</li>
+        <li>Concurrent package</li>
+</ul>
+<li>	Collections</li>
+<ul class="ul">
+        <li>List(ArrayList, LinkedList)</li>
+        <li>Vector</li>
+        <li>Set(TreeSet, SortedSet,LinkedHashSet)</li>
+        <li>Map(HashMap, Linked HashMap,TreeMap and HashTable</li>
+        <li>Iterator</li>
+        <li>List Iterator</li>
+</ul>
+
+<li>Generics</li>
+<li>Reflection api</li>
+<li>Jar creation</li>
+ <ul class="ul">
+       <li>Executable jar</li>
+       <li>Java doc creation</li>
+</ul>
+<li>Data base connection</li>
+<ul class="ul">
+      <li>Using Oracle</li>
+      <li>Using MySQl</li>
+</ul>
+<li>Java new features</li>
+<ul class="ul">
+      <li>JDK-5 Features</li>
+      <li>JDK-8 Features</li>
+</ul>
+<li>Important Core java Questions.</li>
+<li>Q  & A</li>
+</ul>
+
+</div>
+
+<div class="right1">
+<h2>Courses</h2>
+
+<ul>
+
+	<li> <a href="courses.html">Core Java </a></li>
+	<li> <a href="courses2.html">Servlets</a></li>
+    <li> <a href="courses7.html">Java script </a></li>
+	<li> <a href="courses3.html">JSP(Java Server Pages)</a></li>
+	<li> <a href="courses9.html">Angular JS</a></li>
+	<li> <a href="courses10.html">jQuery</a></li>
+	<li> <a href="courses4.html">Spring</a></li>
+	<li> <a href="courses5.html">Hibernate</a></li>
+	<li> <a href="courses6.html">Web Services(SOAP & REST)</a></li>
+    <li> <a href="courses8.html">Oracle(sql/Plsql)</a></li>
+
+</ul>
+
+</div>
+
+<div class="right right1">
+<ul>
+	<li> <a href="">JDBC</a></li>
+	<li> <a href="">Web designing (HTML,HTML5, CSS and CSS3)</a></li>
+	<li> <a href="">Web Programming (Java Script,JSON and AJAX)</a></li>
+	<li> <a href="">ANT,Maven,SVN,JUnit, Log4J and Eclipse</a></li>
+	<li> <a href="">Servers(Tomcat,Jboss and Weblogic)</a></li>
+</ul>
+</div>   
+
+<div class="right right1">
+<ul>
+	  <li> <a href="courses8.html">Interview Questions</a></li>
+</ul>
+</div>
+
+ </div>
+
+ </div>
+
+
+ <footer>
+
+ <div class="footer">
+ <div class="wrapper">
+    <ul>
+    <li><a href="index.html">Home       </a></li>                   
+    <li><a href="about-us.html">About US    </a></li>                      
+    <li><a href="services.html">Services    </a> </li>                     
+    <li><a href="courses.html">Courses    </a> </li>                     
+    <li><a href="careers.html">Careers    </a>  </li>                   
+    <li><a href="contact-us.html" style="border-right:none;">Contact US</a></li>
+
+    </ul>
+
+ </div>
+
+ </div> 
+
+ </footer>  
+
+ 
+
+ 
+
+ 
+
+ <div class="bottom">
+
+    <div class="wrapper">
+
+    
+
+											<div class="logo ">
+
+																<a href="index.html"><img src="images/logo.png"></a>
+
+										    </div>
+
+    
+
+    
+
+                                                                            <div class="right">
+
+                                                                            <img src="images/phone.png">
+
+                                                                            <span><b>+91 9986781724</b></span>
+
+                                                                            <span>info@coursefounder.com</span>
+
+                                                                            </div><div class="right right2">
+
+                                                                            <span>85/9, 6th Cross Rd, <br>Maruti Nagar,1st Stage, BTM Layout 1, <br>Bangaluru, Karnataka 560029<br>
+
+</span>
+
+                                                                            </div>
+
+                                                                            
+
+                                                                            
+
+                                                                            <div class="map">
+
+                                                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.717667334045!2d77.61095941425158!3d12.925858990885901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae14542c823689%3A0x153cf19a2282d78a!2sCourse+Founder+Technologies!5e0!3m2!1sen!2sin!4v1478237864974" allowfullscreen></iframe>
+
+                                                                            
+
+                                                                           </div>
+
+    </div>
+    </div>
+
+  
+<div class="footer-end">    
+
+    <div class="wrapper">
+
+<p class="left">&copy; 2016. Course Founder. All Rights Reserved</p>
+
+<p class="center">   
+    <div class="social_icons social2">
+
+                    <span>Follow Us on:</span>                  
+                    <a href="https://www.facebook.com/Course-Founder-Technologies-676672355818177" target="_blank">
+                         <i class="fa fa-facebook"  aria-hidden="true"></i>
+                    </a>
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    </div>
+</p>
+
+</div>
+
+</div>

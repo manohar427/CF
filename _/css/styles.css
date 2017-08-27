@@ -995,7 +995,7 @@ footer ul li a {
 	float: left;
 	width: 67%;
 	max-height: 720px;
-	animation: fadeInLeft 1s linear;
+	/*animation: fadeInLeft 1s linear;*/
 	animation-delay: 1s;
 	overflow-y: scroll;
 	overflow-x: hidden;
@@ -1016,7 +1016,7 @@ footer ul li a {
 .apn1 .right {
 	width: 32%;
 	sfloat: right;
-	animation: fadeInRight 1s linear;
+	/*animation: fadeInRight 1s linear;*/
 	animation-delay: 1s;
 }
 
@@ -1029,7 +1029,7 @@ footer ul li a {
 	border-bottom: 5px solid #22b14c;
 	border-right: 5px solid #22b14c;
 	margin-bottom: 15px;
-	animation: fadeInUp 1s linear;
+	/*animation: fadeInUp 1s linear;*/
 	animation-delay: 1s;
 }
 
@@ -1074,7 +1074,7 @@ footer ul li a {
 .apn1 .margin {
 	float: left;
 	width: 67%;
-	animation: fadeInLeft 1s linear;
+	/*animation: fadeInLeft 1s linear;*/
 	animation-delay: 1s;
 	margin-bottom: 100px;
 }

@@ -1336,3 +1336,9 @@ div#slider figure {
 	font-size: 0;
 	animation-iteration-count: infinite;
 }
+.syllabusColor{
+    text-decoration: underline; 
+    text-decoration-style: wavy; 
+    text-decoration-color: red;
+	 font-weight: 900;
+}
